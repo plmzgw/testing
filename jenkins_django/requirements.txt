@@ -1,0 +1,2 @@
+django-markdown==0.8.4
+django-registration-redux==1.1
